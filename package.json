@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/DanielBrierton/hapi-ip2country-plugin#readme",
   "dependencies": {
+    "countryjs": "^1.8.0",
     "maxmind": "^2.2.0"
   },
   "devDependencies": {

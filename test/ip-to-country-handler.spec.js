@@ -33,7 +33,8 @@ describe('IP to Country Handler', function () {
                 "pt-BR": "Estados Unidos",
                 "ru": "США",
                 "zh-CN": "美国"
-            }
+            },
+            "tld": ".us"
         },
         "registered_country": {
             "geoname_id": 6252001,
@@ -47,7 +48,8 @@ describe('IP to Country Handler', function () {
                 "pt-BR": "Estados Unidos",
                 "ru": "США",
                 "zh-CN": "美国"
-            }
+            },
+            "tld": ".us"
         }
     };
     
