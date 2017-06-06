@@ -1,6 +1,6 @@
 {
   "name": "hapi-ip2country-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hapi plugin for looking up countries from requester's IP",
   "main": "index.js",
   "scripts": {
